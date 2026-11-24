@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/enna-ragam-preview/sw.js', { scope: '/enna-ragam-preview/' })})}

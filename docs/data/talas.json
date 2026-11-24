@@ -1,0 +1,728 @@
+[
+  {
+    "id": "khanda-chapu",
+    "name": "Khanda Chapu",
+    "commonName": "Khanda Chapu",
+    "tala": "Chapu",
+    "jati": "Khanda",
+    "laghuAksharas": 5,
+    "angas": [
+      2,
+      3
+    ],
+    "beats": 5,
+    "note": "Five aksharas counted 2 + 3 (tha-ka | tha-ki-ta). Outside the sapta-tala scheme, and very common in lighter kritis and Tamil compositions.",
+    "system": "chapu",
+    "popular": true,
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)",
+    "angasText": "O |3"
+  },
+  {
+    "id": "misra-chapu",
+    "name": "Misra Chapu",
+    "commonName": "Misra Chapu",
+    "tala": "Chapu",
+    "jati": "Misra",
+    "laghuAksharas": 7,
+    "angas": [
+      3,
+      4
+    ],
+    "beats": 7,
+    "note": "Seven aksharas counted 3 + 4 (tha-ki-ta | tha-ka-di-mi). The most used of the four chapu talas; the recital convention can also count it in double speed as 14.",
+    "system": "chapu",
+    "popular": true,
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)",
+    "angasText": "|3 |4"
+  },
+  {
+    "id": "tisra-dhruva",
+    "name": "Tisra Dhruva",
+    "shortName": "T. Dhruva",
+    "tala": "Dhruva",
+    "jati": "Tisra",
+    "laghuAksharas": 3,
+    "angas": [
+      3,
+      2,
+      3,
+      3
+    ],
+    "beats": 11,
+    "commonName": "Tisra Dhruva",
+    "popular": false,
+    "note": "",
+    "angasText": "|3 O |3 |3",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "chatusra-dhruva",
+    "name": "Chatusra Dhruva",
+    "shortName": "C. Dhruva",
+    "tala": "Dhruva",
+    "jati": "Chatusra",
+    "laghuAksharas": 4,
+    "angas": [
+      4,
+      2,
+      4,
+      4
+    ],
+    "beats": 14,
+    "commonName": "Chatusra Dhruva",
+    "popular": false,
+    "note": "",
+    "angasText": "|4 O |4 |4",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "khanda-dhruva",
+    "name": "Khanda Dhruva",
+    "shortName": "K. Dhruva",
+    "tala": "Dhruva",
+    "jati": "Khanda",
+    "laghuAksharas": 5,
+    "angas": [
+      5,
+      2,
+      5,
+      5
+    ],
+    "beats": 17,
+    "commonName": "Khanda Dhruva",
+    "popular": false,
+    "note": "",
+    "angasText": "|5 O |5 |5",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "misra-dhruva",
+    "name": "Misra Dhruva",
+    "shortName": "M. Dhruva",
+    "tala": "Dhruva",
+    "jati": "Misra",
+    "laghuAksharas": 7,
+    "angas": [
+      7,
+      2,
+      7,
+      7
+    ],
+    "beats": 23,
+    "commonName": "Misra Dhruva",
+    "popular": false,
+    "note": "",
+    "angasText": "|7 O |7 |7",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "sankeerna-dhruva",
+    "name": "Sankeerna Dhruva",
+    "shortName": "S. Dhruva",
+    "tala": "Dhruva",
+    "jati": "Sankeerna",
+    "laghuAksharas": 9,
+    "angas": [
+      9,
+      2,
+      9,
+      9
+    ],
+    "beats": 29,
+    "commonName": "Sankeerna Dhruva",
+    "popular": false,
+    "note": "Twenty-nine aksharas — the longest of the 35 sapta talas.",
+    "angasText": "|9 O |9 |9",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "tisra-matya",
+    "name": "Tisra Matya",
+    "shortName": "T. Matya",
+    "tala": "Matya",
+    "jati": "Tisra",
+    "laghuAksharas": 3,
+    "angas": [
+      3,
+      2,
+      3
+    ],
+    "beats": 8,
+    "commonName": "Tisra Matya",
+    "popular": false,
+    "note": "",
+    "angasText": "|3 O |3",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "chatusra-matya",
+    "name": "Chatusra Matya",
+    "shortName": "C. Matya",
+    "tala": "Matya",
+    "jati": "Chatusra",
+    "laghuAksharas": 4,
+    "angas": [
+      4,
+      2,
+      4
+    ],
+    "beats": 10,
+    "commonName": "Chatusra Matya",
+    "popular": false,
+    "note": "",
+    "angasText": "|4 O |4",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "khanda-matya",
+    "name": "Khanda Matya",
+    "shortName": "K. Matya",
+    "tala": "Matya",
+    "jati": "Khanda",
+    "laghuAksharas": 5,
+    "angas": [
+      5,
+      2,
+      5
+    ],
+    "beats": 12,
+    "commonName": "Khanda Matya",
+    "popular": false,
+    "note": "",
+    "angasText": "|5 O |5",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "misra-matya",
+    "name": "Misra Matya",
+    "shortName": "M. Matya",
+    "tala": "Matya",
+    "jati": "Misra",
+    "laghuAksharas": 7,
+    "angas": [
+      7,
+      2,
+      7
+    ],
+    "beats": 16,
+    "commonName": "Misra Matya",
+    "popular": false,
+    "note": "",
+    "angasText": "|7 O |7",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "sankeerna-matya",
+    "name": "Sankeerna Matya",
+    "shortName": "S. Matya",
+    "tala": "Matya",
+    "jati": "Sankeerna",
+    "laghuAksharas": 9,
+    "angas": [
+      9,
+      2,
+      9
+    ],
+    "beats": 20,
+    "commonName": "Sankeerna Matya",
+    "popular": false,
+    "note": "",
+    "angasText": "|9 O |9",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "tisra-rupaka",
+    "name": "Tisra Rupaka",
+    "shortName": "T. Rupaka",
+    "tala": "Rupaka",
+    "jati": "Tisra",
+    "laghuAksharas": 3,
+    "angas": [
+      2,
+      3
+    ],
+    "beats": 5,
+    "commonName": "Tisra Rupaka",
+    "popular": false,
+    "note": "",
+    "angasText": "O |3",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "chatusra-rupaka",
+    "name": "Chatusra Rupaka",
+    "shortName": "C. Rupaka",
+    "tala": "Rupaka",
+    "jati": "Chatusra",
+    "laghuAksharas": 4,
+    "angas": [
+      2,
+      4
+    ],
+    "beats": 6,
+    "commonName": "Rupaka",
+    "popular": true,
+    "note": "Six aksharas, felt as 2 + 4. The second most common tala for kritis.",
+    "angasText": "O |4",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "khanda-rupaka",
+    "name": "Khanda Rupaka",
+    "shortName": "K. Rupaka",
+    "tala": "Rupaka",
+    "jati": "Khanda",
+    "laghuAksharas": 5,
+    "angas": [
+      2,
+      5
+    ],
+    "beats": 7,
+    "commonName": "Khanda Rupaka",
+    "popular": false,
+    "note": "",
+    "angasText": "O |5",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "misra-rupaka",
+    "name": "Misra Rupaka",
+    "shortName": "M. Rupaka",
+    "tala": "Rupaka",
+    "jati": "Misra",
+    "laghuAksharas": 7,
+    "angas": [
+      2,
+      7
+    ],
+    "beats": 9,
+    "commonName": "Misra Rupaka",
+    "popular": false,
+    "note": "",
+    "angasText": "O |7",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "sankeerna-rupaka",
+    "name": "Sankeerna Rupaka",
+    "shortName": "S. Rupaka",
+    "tala": "Rupaka",
+    "jati": "Sankeerna",
+    "laghuAksharas": 9,
+    "angas": [
+      2,
+      9
+    ],
+    "beats": 11,
+    "commonName": "Sankeerna Rupaka",
+    "popular": false,
+    "note": "",
+    "angasText": "O |9",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "tisra-jampa",
+    "name": "Tisra Jampa",
+    "shortName": "T. Jampa",
+    "tala": "Jampa",
+    "jati": "Tisra",
+    "laghuAksharas": 3,
+    "angas": [
+      3,
+      1,
+      2
+    ],
+    "beats": 6,
+    "commonName": "Tisra Jampa",
+    "popular": false,
+    "note": "",
+    "angasText": "|3 U O",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "chatusra-jampa",
+    "name": "Chatusra Jampa",
+    "shortName": "C. Jampa",
+    "tala": "Jampa",
+    "jati": "Chatusra",
+    "laghuAksharas": 4,
+    "angas": [
+      4,
+      1,
+      2
+    ],
+    "beats": 7,
+    "commonName": "Chatusra Jampa",
+    "popular": false,
+    "note": "",
+    "angasText": "|4 U O",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "khanda-jampa",
+    "name": "Khanda Jampa",
+    "shortName": "K. Jampa",
+    "tala": "Jampa",
+    "jati": "Khanda",
+    "laghuAksharas": 5,
+    "angas": [
+      5,
+      1,
+      2
+    ],
+    "beats": 8,
+    "commonName": "Khanda Jampa",
+    "popular": false,
+    "note": "Eight aksharas: 5 + 1 + 2.",
+    "angasText": "|5 U O",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "misra-jampa",
+    "name": "Misra Jampa",
+    "shortName": "M. Jampa",
+    "tala": "Jampa",
+    "jati": "Misra",
+    "laghuAksharas": 7,
+    "angas": [
+      7,
+      1,
+      2
+    ],
+    "beats": 10,
+    "commonName": "Misra Jampa",
+    "popular": false,
+    "note": "Ten aksharas: 7 + 1 + 2. Not the same as Misra Chapu, which also has seven counts but a different internal division.",
+    "angasText": "|7 U O",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "sankeerna-jampa",
+    "name": "Sankeerna Jampa",
+    "shortName": "S. Jampa",
+    "tala": "Jampa",
+    "jati": "Sankeerna",
+    "laghuAksharas": 9,
+    "angas": [
+      9,
+      1,
+      2
+    ],
+    "beats": 12,
+    "commonName": "Sankeerna Jampa",
+    "popular": false,
+    "note": "",
+    "angasText": "|9 U O",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "tisra-triputa",
+    "name": "Tisra Triputa",
+    "shortName": "T. Triputa",
+    "tala": "Triputa",
+    "jati": "Tisra",
+    "laghuAksharas": 3,
+    "angas": [
+      3,
+      2,
+      2
+    ],
+    "beats": 7,
+    "commonName": "Tisra Triputa",
+    "popular": true,
+    "note": "Seven aksharas: 3 + 2 + 2. Shares its length with Misra Chapu but groups differently.",
+    "angasText": "|3 O O",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "chatusra-triputa",
+    "name": "Chatusra Triputa",
+    "shortName": "C. Triputa",
+    "tala": "Triputa",
+    "jati": "Chatusra",
+    "laghuAksharas": 4,
+    "angas": [
+      4,
+      2,
+      2
+    ],
+    "beats": 8,
+    "commonName": "Adi",
+    "popular": true,
+    "note": "The most common tala in Carnatic music: 8 aksharas, felt as 4 + 2 + 2. Roughly half of varnams and a very large share of kritis use it.",
+    "angasText": "|4 O O",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "khanda-triputa",
+    "name": "Khanda Triputa",
+    "shortName": "K. Triputa",
+    "tala": "Triputa",
+    "jati": "Khanda",
+    "laghuAksharas": 5,
+    "angas": [
+      5,
+      2,
+      2
+    ],
+    "beats": 9,
+    "commonName": "Khanda Triputa",
+    "popular": true,
+    "note": "Nine aksharas: 5 + 2 + 2.",
+    "angasText": "|5 O O",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "misra-triputa",
+    "name": "Misra Triputa",
+    "shortName": "M. Triputa",
+    "tala": "Triputa",
+    "jati": "Misra",
+    "laghuAksharas": 7,
+    "angas": [
+      7,
+      2,
+      2
+    ],
+    "beats": 11,
+    "commonName": "Misra Triputa",
+    "popular": true,
+    "note": "Eleven aksharas: 7 + 2 + 2.",
+    "angasText": "|7 O O",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "sankeerna-triputa",
+    "name": "Sankeerna Triputa",
+    "shortName": "S. Triputa",
+    "tala": "Triputa",
+    "jati": "Sankeerna",
+    "laghuAksharas": 9,
+    "angas": [
+      9,
+      2,
+      2
+    ],
+    "beats": 13,
+    "commonName": "Sankeerna Triputa",
+    "popular": false,
+    "note": "",
+    "angasText": "|9 O O",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "tisra-ata",
+    "name": "Tisra Ata",
+    "shortName": "T. Ata",
+    "tala": "Ata",
+    "jati": "Tisra",
+    "laghuAksharas": 3,
+    "angas": [
+      3,
+      3,
+      2
+    ],
+    "beats": 8,
+    "commonName": "Tisra Ata",
+    "popular": true,
+    "note": "Fourteen aksharas: 3 + 3 + 2 + 2 + 2 + 2.",
+    "angasText": "|3 |3 O",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "chatusra-ata",
+    "name": "Chatusra Ata",
+    "shortName": "C. Ata",
+    "tala": "Ata",
+    "jati": "Chatusra",
+    "laghuAksharas": 4,
+    "angas": [
+      4,
+      4,
+      2
+    ],
+    "beats": 10,
+    "commonName": "Chatusra Ata",
+    "popular": true,
+    "note": "Fourteen aksharas: 4 + 4 + 2 + 2 + 2.",
+    "angasText": "|4 |4 O",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "khanda-ata",
+    "name": "Khanda Ata",
+    "shortName": "K. Ata",
+    "tala": "Ata",
+    "jati": "Khanda",
+    "laghuAksharas": 5,
+    "angas": [
+      5,
+      5,
+      2
+    ],
+    "beats": 12,
+    "commonName": "Khanda Ata",
+    "popular": true,
+    "note": "Eighteen aksharas: 5 + 5 + 2 + 2 + 2 + 2. A long cycle favoured for elaborate pallavi work.",
+    "angasText": "|5 |5 O",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "misra-ata",
+    "name": "Misra Ata",
+    "shortName": "M. Ata",
+    "tala": "Ata",
+    "jati": "Misra",
+    "laghuAksharas": 7,
+    "angas": [
+      7,
+      7,
+      2
+    ],
+    "beats": 16,
+    "commonName": "Misra Ata",
+    "popular": false,
+    "note": "",
+    "angasText": "|7 |7 O",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "sankeerna-ata",
+    "name": "Sankeerna Ata",
+    "shortName": "S. Ata",
+    "tala": "Ata",
+    "jati": "Sankeerna",
+    "laghuAksharas": 9,
+    "angas": [
+      9,
+      9,
+      2
+    ],
+    "beats": 20,
+    "commonName": "Sankeerna Ata",
+    "popular": false,
+    "note": "",
+    "angasText": "|9 |9 O",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "tisra-eka",
+    "name": "Tisra Eka",
+    "shortName": "T. Eka",
+    "tala": "Eka",
+    "jati": "Tisra",
+    "laghuAksharas": 3,
+    "angas": [
+      3
+    ],
+    "beats": 3,
+    "commonName": "Tisra Eka",
+    "popular": true,
+    "note": "Three aksharas per cycle, heard as a flowing triple metre. The shortest of the 35 sapta talas.",
+    "angasText": "|3",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "chatusra-eka",
+    "name": "Chatusra Eka",
+    "shortName": "C. Eka",
+    "tala": "Eka",
+    "jati": "Chatusra",
+    "laghuAksharas": 4,
+    "angas": [
+      4
+    ],
+    "beats": 4,
+    "commonName": "Chatusra Eka",
+    "popular": true,
+    "note": "Four aksharas per cycle. Common for simple devotional and lighter classical pieces.",
+    "angasText": "|4",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "khanda-eka",
+    "name": "Khanda Eka",
+    "shortName": "K. Eka",
+    "tala": "Eka",
+    "jati": "Khanda",
+    "laghuAksharas": 5,
+    "angas": [
+      5
+    ],
+    "beats": 5,
+    "commonName": "Khanda Eka",
+    "popular": true,
+    "note": "Five aksharas per cycle; common in Tamil kritis and padams.",
+    "angasText": "|5",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "misra-eka",
+    "name": "Misra Eka",
+    "shortName": "M. Eka",
+    "tala": "Eka",
+    "jati": "Misra",
+    "laghuAksharas": 7,
+    "angas": [
+      7
+    ],
+    "beats": 7,
+    "commonName": "Misra Eka",
+    "popular": false,
+    "note": "",
+    "angasText": "|7",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  },
+  {
+    "id": "sankeerna-eka",
+    "name": "Sankeerna Eka",
+    "shortName": "S. Eka",
+    "tala": "Eka",
+    "jati": "Sankeerna",
+    "laghuAksharas": 9,
+    "angas": [
+      9
+    ],
+    "beats": 9,
+    "commonName": "Sankeerna Eka",
+    "popular": false,
+    "note": "",
+    "angasText": "|9",
+    "system": "sapta",
+    "source": "https://en.wikipedia.org/wiki/Tala_(music)"
+  }
+]
