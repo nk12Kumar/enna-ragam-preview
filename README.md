@@ -8,7 +8,7 @@ A Carnatic music discovery app: play a song near your microphone and Enna Ragam?
 
 This repository is the **static preview edition** of the app, published with GitHub Pages. It carries the complete music library — 990 ragas, 37 talas and 2,400 songs — bundled as JSON, so search, both explorers, song pages and the audio‑analysis pages all work with no server.
 
-Coverage by language, as the source tables state it: Tamil 451 · Telugu 368 · Kannada 41 · Malayalam 16 · Sanskrit 33 · Hindi 608, with 865 rows left blank because their source gives no language. Use **By language** on the search page to browse Tamil, Telugu, Kannada, Malayalam, Sanskrit or Hindi songs.
+Coverage by language, as the source tables state it: Tamil 538 · Telugu 368 · Kannada 41 · Malayalam 16 · Sanskrit 33 · Hindi 608, with 980 rows left blank because their source gives no language. Tamil includes the older classical repertoire — Koteeswara Iyer's 72 melakarta kritis and Papanasam Sivan's kriti list alongside 448 Tamil film songs. Use **By language** on the search page to browse Tamil, Telugu, Kannada, Malayalam, Sanskrit or Hindi songs.
 
 <p align="center">
   <img src="docs/screenshots/home-dark.png" alt="Home screen" width="720" />
