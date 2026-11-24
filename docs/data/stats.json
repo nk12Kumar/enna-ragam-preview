@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-24T08:56:20.078Z",
+  "generatedAt": "2026-11-24T09:20:27.250Z",
   "ragas": 990,
   "melakarta": 72,
   "janya": 918,
   "popular": 72,
   "talas": 37,
-  "songs": 2404,
+  "songs": 2402,
   "classicalSongs": 578,
-  "filmSongs": 1826,
-  "linkedSongs": 2219,
+  "filmSongs": 1824,
+  "linkedSongs": 2217,
   "sources": [
     "https://en.wikipedia.org/wiki/Melakarta",
     "https://en.wikipedia.org/wiki/List_of_Janya_ragas",
