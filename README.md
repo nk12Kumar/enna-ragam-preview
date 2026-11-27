@@ -14,6 +14,16 @@ Coverage by language, as the source tables state it: Tamil 538 · Telugu 368 · 
   <img src="docs/screenshots/home-dark.png" alt="Home screen" width="720" />
 </p>
 
+## Desktop app (Windows, no install)
+
+A single portable exe is published with each release: **https://github.com/nk12Kumar/enna-ragam-preview/releases/latest**
+
+Download `Enna-Ragam-0.1.0-portable.exe`, double-click it, and the app opens in its own window. It runs the server privately on this machine, keeps its library and history in a folder beside the exe (so it works from a USB stick), and takes the recognition key in **Settings → Recognition provider**.
+
+<p align="center">
+  <img src="docs/screenshots/desktop.png" alt="Desktop app" width="720" />
+</p>
+
 ## What works in this static build
 
 | Feature | Here | Self-hosted |
